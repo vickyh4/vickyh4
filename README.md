@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vicky
-- 👀 I’m interested in developing awesome things.
-- 🌱 I’m currently learning ... a lot.
+- 👀 I’m interested in developing things that make life easier and more enjoyable for everyone.
+- 🌱 I’m currently learning SpriteKit and Swift for some game development.
 - 📫 How to reach me: https://www.linkedin.com/in/vicky-hu1/
 
 <!---
